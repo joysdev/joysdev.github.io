@@ -1,0 +1,9 @@
+# Site settings
+title: Testing title
+author:
+  name: Testing name
+  email: joyswork@protonmail.com
+description: "Testing site description"
+
+# Build settings
+remote_theme: jekyll/cayman
