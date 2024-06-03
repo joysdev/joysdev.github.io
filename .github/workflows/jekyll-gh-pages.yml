@@ -43,6 +43,8 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
+      theme: jekyll-theme-cayman
     runs-on: ubuntu-latest
     needs: build
     steps:
