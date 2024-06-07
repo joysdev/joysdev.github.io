@@ -1,1 +1,1 @@
-Welcome to my blog of 100 straight days of commits. I am a beginner programmer establishing habits of study and practice. This is mostly a record of my progress, but it also includes answers to a variety of questions other beginners may have.
+Testing pushing to both branches Welcome to my blog of 100 straight days of commits. I am a beginner programmer establishing habits of study and practice. This is mostly a record of my progress, but it also includes answers to a variety of questions other beginners may have.
