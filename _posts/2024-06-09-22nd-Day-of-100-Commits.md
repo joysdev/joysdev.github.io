@@ -1,0 +1,5 @@
+#Day 22
+
+_Right now, I am probably on the steepest section of the learning curve for programming._ I am often uncomfortable-I have plenty of opportunities to examine Frustration and other emotions that are challenging to endure. I want to explore this concept more, but it's already past my bedtime.
+
+A few days ago, I decided to figure out gradient backgrounds, and thanks to [Anna Fitzgerald's blog post](https://blog.hubspot.com/website/change-background-color-html#html-gradient-background-color) I finally got one to work, although in an unexpected way! Stay tuned...
