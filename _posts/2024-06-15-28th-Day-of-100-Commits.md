@@ -1,0 +1,3 @@
+I'm over my goal of what I'm gonna call Career Development time-I'm including the time I spent rewriting my resume and applying to restaurants, in part because I'm not sure this is sustainable if I don't get another job. On the other hand, maybe I should stay working this job I hate, but only part-time? I know I won't work full-time there, and I know it's unlikely I can move if I don't, and where I live isn't pedestrian-friendly enough. I am afraid I'll switch jobs and still not be able to move...
+
+Either way, I worked about 24 hours unpaid this week-I hope this investment pays off in more than self-satisfaction. I don't expect this to return millions or anything, but I want to build a life I want to live.
