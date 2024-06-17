@@ -1,0 +1,1 @@
+Day 29... I'm deeply dissatisfied with these boring posts, but I don't know where to find the energy for anything else. Something's gotta give!
