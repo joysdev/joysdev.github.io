@@ -2,6 +2,6 @@ Why are my github and local repos not matching? Is there a way to fix it or shou
 
 Re-cloned beginnersmind and I have all my files back on local, but now I see a file identical to my github pages in there, just without all the other files that are still in my real joysdev.github.io. Now I see in my gui, all my other repos are there as files too, also empty. The changes I made to odin-recipes are missing in my actual odin-recipes files. 
 
-I feel so lost-I don't know where I went so wrong or how to fix it. And dissatisfied to have spent almost two hours trying to untangle this mess and not have gotten anywhere. 
+I feel so lost-I don't know where I went so wrong or how to fix it. And dissatisfied to have spent almost two hours trying to untangle this mess and not have gotten anywhere, mor having reached my goal to commit more than a post. 
 
-Back to lessons tomorrow.
+I need to get ready for a healthy bedtime. I'll try again tomorrow.
