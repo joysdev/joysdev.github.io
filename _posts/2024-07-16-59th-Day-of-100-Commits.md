@@ -1,0 +1,3 @@
+After visiting the library today, I now have a couple books and put a couple more on hold today-mostly material for kids, which I am not ashamed of, only grateful they exist! Hopefully these help me grasp JavaScript more firmly. I was surprised to learn there aren't many books on learning logical reasoning...
+
+I excitedly started Step 2 of the freeCodeCamp Gradebook mini-project, and almost three hours later, I am near tears from frustration. I'm pretty sure I haven't defined score, but I have no idea how to go about it. Searching for define a function variable isn't getting me the answers I need, and neither is looking up the forum posts. I've been looking at shecodes, MDN, and Stack Overflow too... Beginning to wonder how this shit makes anything easier or faster!
