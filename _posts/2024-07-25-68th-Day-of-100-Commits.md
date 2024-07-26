@@ -1,0 +1,7 @@
+### Building my first app, even though I don't have all the tools/skills necessary is a worthwhile stretch!
+
+I'm happy to report quite a bit of the HTML and CSS I've learned is either in my head, or I know where to look it up. I'm also noticeably improving at reading code to extrapolate solutions. 
+
+In my initial flailing about, I recognized pretty quickly the value of writing a plain-terms description of how I want my app to behave. I'm also using many comments to return to when I figure out things I don't know yet. I admit I am struggling to find what some features of an app/webpage are even called, and in some cases my searches have been so far fruitless. In these moments, it is painfully obvious how nice it would be to belong to a community of programmers. That's another item on my to-build list! 
+
+As I wrap up tonight's session, I am curious-in an app, is there a separate HTML file for each button-click-page? I found a promising-looking (Medium article)[https://medium.com/@ayushmanbilasthakur/how-to-make-a-simple-timer-using-html-css-and-javascript-3b07bee8819d] with linked (source code)[https://github.com/ayushmanbt/countdownTimer], which I will refer to when I get dive in to the JavaScript. But because this is a single stopwatch app, it only requires an index.html. I'm leaning towards building each menu on a different page, like odin-recipes, partly because that was my first instinct, and partly because it may help me compartmentalize the issues I will inevitable face, and I could consolidate it later, if necessary/better.
