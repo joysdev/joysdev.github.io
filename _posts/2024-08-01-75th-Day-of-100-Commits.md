@@ -14,7 +14,7 @@ I copied and pasted what I needed from their snippet and edited my element IDs, 
 8- Commented out my Pose Number fieldset-did not work, same results as above.
 9- Noticed I still had G4G code test in my customnewseq.html. Commented it out-IT WORKS!!! 
 
-Up next: adjust input so it won't accept floats. Clean up my code. Add create custom sequence button on index.
+Up next: adjust input so it won't accept floats. ~~Clean up my code~~. ~~Add create custom sequence button on index~~.
 Eventually: add functionality to remove a pose. Style. Add timer...
 
 As I was cleaning up my code, I noticed my JavaScript is relying on the div stuff in brown. Not exactly sure why, but it may have something to do with how the function is written.
