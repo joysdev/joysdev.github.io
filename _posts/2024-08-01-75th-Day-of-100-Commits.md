@@ -4,15 +4,15 @@ Today I'm focused on figuring out my button-click-to-add-field challenge in my a
 
 I copied and pasted what I needed from their snippet and edited my element IDs, but it did not work. So I'm creating a local only repo to test their entire code to identify where mine is going wrong.
 
--1- Copied and pasted their whole code into my index.html and went live-worked.
--2- Created a separate script file and cut & pasted the script code from index-worked.
--3- Commented out all of my main.js and pasted their script code. Added their div to my customenewseq.html-worked.
--4- Changed their words to mine-worked.
--5- Pasted my input fields-did not work.
--6- Commented out my div-did not work. I can see when I click my Add a Pose button, it wants to add their input fields in their div. I think it's because my main.js still matches theirs...
--7- Edited main.js to be my names-did not work, but I can see it trying to add mine but they disappear immediately.
--8- Commented out my Pose Number fieldset-did not work, same results as above.
--9- Noticed I still had G4G code test in my customnewseq.html. Commented it out-IT WORKS!!! 
+1. Copied and pasted their whole code into my index.html and went live-worked.
+2. Created a separate script file and cut & pasted the script code from index-worked.
+3. Commented out all of my main.js and pasted their script code. Added their div to my customenewseq.html-worked.
+4. Changed their words to mine-worked.
+5. Pasted my input fields-did not work.
+6. Commented out my div-did not work. I can see when I click my Add a Pose button, it wants to add their input fields in their div. I think it's because my main.js still matches theirs...
+7. Edited main.js to be my names-did not work, but I can see it trying to add mine but they disappear immediately.
+8. Commented out my Pose Number fieldset-did not work, same results as above.
+9. Noticed I still had G4G code test in my customnewseq.html. Commented it out-IT WORKS!!! 
 
 Up next: adjust input so it won't accept floats. ~~Clean up my code~~. ~~Add create custom sequence button on index~~.
 Eventually: add functionality to remove a pose. Style. Add timer...
