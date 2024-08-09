@@ -14,7 +14,9 @@ When I reach my goal of 100 days of commits, I plan to continue programming prac
 
 I am scared-I have held daily writing goals on and off, and it seems they can have a detrimental effect on my mood. I get stuck in negative thought cul-de-sacs and it's painfully frustrating to face these dead-ends, feeling alone, forever and ever. 
 
-After a conversation with my therapist, I agree I need to fully invest in connecting with others, or fully accept it's not what I'm doing atm. I am leaning towards the latter. I just wish, for the millionth time, I could switch off the part of my brain that aches for friends and a partner. The
+After a conversation with my therapist, I agree I need to fully invest in connecting with others, or fully accept it's not what I'm doing atm. I am leaning towards the latter. I just wish, for the millionth time, I could switch off the part of my brain that aches for friends and a partner. 
+
+Another goal I'd like to set is making music. I'm not yet clear on how I will structure that one, but I have an e-keyboard that I could put to better use and I've always wanted to write some music. I imagine it would be fun and satisfying to use my instruments, recording equipment, and software to create.
 
 
 
