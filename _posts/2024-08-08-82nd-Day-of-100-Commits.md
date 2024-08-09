@@ -18,5 +18,11 @@ After a conversation with my therapist, I agree I need to fully invest in connec
 
 Another goal I'd like to set is making music. I'm not yet clear on how I will structure that one, but I have an e-keyboard that I could put to better use and I've always wanted to write some music. I imagine it would be fun and satisfying to use my instruments, recording equipment, and software to create.
 
+Figure Model Interval Timer App To-Do
+- ~~shorten placeholders~~
+- style: buttons, fields, font?, background?
+- add timers
+- remove a pose button & functionality
+
 
 
