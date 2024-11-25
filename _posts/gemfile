@@ -1,0 +1,13 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.0"   # Jekyll version compatible with GitHub Pages
+gem "github-pages", group: :jekyll_plugins   # GitHub Pages gem
+
+# Optional: Add any other gems you need for your site
+gem "jekyll-seo-tag"       # For SEO tags, if needed
+gem "jekyll-feed"          # To add RSS feed, if needed
+
+# Development and Build Dependencies
+group :jekyll_plugins do
+  gem "jekyll-sitemap"  # For generating a sitemap, if needed
+end
