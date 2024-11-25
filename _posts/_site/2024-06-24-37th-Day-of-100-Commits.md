@@ -1,0 +1,7 @@
+# Celebrating each win, no matter how grand
+
+I successfully cloned a local repo to Github with no undesirable side effects! I have not made significant changes to any project today, but this is progress nonetheless. I noticed I am reluctant to start the freecodeCamp certification projects because they don't seem personally meaningful, and when I consider adding to personal projects I am daunted by the gap between what I can do and what I want to do, so I scurry back to tutorials so that I'm at least not just sitting here motionless. My wiser mind says it doesn't really matter which I choose-either way I'm getting valuable practical experience. My wiser mind also had some gentle reactions to my noticing I'm _still_ self-deprecating to avoid discomfort with others. 
+
+It is hard and takes plenty of practice to break, or make, habits. I am often frustrated that I am not where I want to be. I deserve to relish all the progress I _have_ made. I have not only added a few programming skills to my arsenal and built a daily habit of programming, I have been sober for ten months, three weeks, and two days, and I have been consistently running my 5k in under 30 minutes. Those are just a few of the things on my list of accomplishments over the past year alone. 
+
+I have lots of things on my list of room for improvement, but I bet I will only continue making progress if I take some time regularly to stand back and admire the work I've already done. 

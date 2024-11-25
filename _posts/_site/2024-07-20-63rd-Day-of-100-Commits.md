@@ -1,0 +1,1 @@
+Another short day due to work. But a solid commit-rough draft, but I am taking steps in building my interval timer app. Feels mostly good, and daunting. I am aware of how little I know. Making an effort to notice all that I have learned.  

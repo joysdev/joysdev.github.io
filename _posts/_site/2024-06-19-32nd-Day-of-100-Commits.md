@@ -1,0 +1,3 @@
+# Gaps
+
+In therapy recently, I found myself commenting on the gap between what I am achieving and how I feel. The observation was in reference to nearing a year of sobriety, but I have noticed it also aptly describing other areas in my life. There's one between what I get paid and the value I provide my employers. And with programming, there are gaps between what I want to do and what I am currently capable of. I'm practicing a growth mindset, so I am taking the position I can learn and practice to get there. Still, one key characteristic of being a beginner is facing a series of gaps, of which many appear nearly impassably wide, at least at first. 

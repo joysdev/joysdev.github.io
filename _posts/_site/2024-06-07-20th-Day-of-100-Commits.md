@@ -1,0 +1,3 @@
+Cascades of questions spring from each answer I find!
+
+I'm jumping back and forth between lessons in The Odin Project, freeCodeCamp, Codecademy, and recommendations for resources from Redditors and/or Google searches. I'm also trying to customize this site with what I'm learning, but apparently my skill level is not there yet. Tonight I am especially confused by the difference between what I see in my files and what I see in Dev Tools. I feel more familiar with what I see in Dev Tools, but changes I make there aren't resulting in my desired page alterations. Next up: A/B testing-I need to go back to writing code and opening it in Chrome to see if my code is good or not yet.  

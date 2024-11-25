@@ -1,0 +1,3 @@
+begin rant I need a break. Idk if sobriety is getting me down or the full moon or what, but I am tired, annoyed, unfulfilled and about to break something or down. I need my own space to come home to after these long workdays. I need all the shit I pay for to fucking work. I need my effort to pay off. I need friends and I need sex. All things I have frankly lost hope of obtaining. end rant
+
+In spite of all this, or maybe because of it, I am looking forward to spending some time tomorrow working on my interval timer. Of course I want to make tangible progress, but I know it's likely I won't have much more than a bunch of commits that are evidence of the time I spent without much change in the actual app.  

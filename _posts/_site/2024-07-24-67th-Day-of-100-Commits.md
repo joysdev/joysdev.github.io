@@ -1,0 +1,3 @@
+I want to use programming conventions in my posts, but as part of my language, not only to include code. I wonder if there's a way? I wonder if I'll ever have time to look it up...
+
+Made some progress on my Figure Model Interval Timer tonight! Feels good to be making more, and more meaningful commits. Figuring out my workflow in addition to cementing what I've covered in lessons. I want to be better at not getting hung up in styling-I'd like to add at least a little JavaScript tomorrow. Not sure yet exactly what will be useful in this project, but I suspect event listeners will be included. 

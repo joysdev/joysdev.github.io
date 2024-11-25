@@ -1,0 +1,3 @@
+I just finished the freeCodeCamp JavaScript lesson wherein one builds a role-playing game, and I am burnt out. I am looking forward to being at work tomorrow where I can just not practice coding for several hours. 
+
+Considering trying a different OOP language, but unsure if I'm giving up on JS too soon. I don't have to decide until my next sesh. I'm already over goal for this week, which is good because my new schedule doesn't have much time for coding Friday and Saturday. So for my commits I could just set up some new repos for personal projects, with .js files as a nudge. I could simply experiment...

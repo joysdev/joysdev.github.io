@@ -1,0 +1,7 @@
+## Looking for a job **is** a job
+
+Due to the vast energy and time I spent on the process of looking for and applying to a new job, I did not get any specific programming study/practice in today, and I miss it. I'm satisfying my daily commit goal via this blog, but I'm still disappointed. Gonna take that as a sign that I'm on the right track with continuing, though!
+
+While updating my resume, I did finally solve another kind of computer problem-a formatting annoyance in Word. I want my resume to all fit on one page, and I have some filled rectangles to contrast some sections, including the very bottom section. Even though I reduced the size of that shape and the text within so I could see it all fit on one page, Word was still counting my file as 2 pages. I searched "word program how to delete a page 2" and although I was skeptical a Microsoft support post would help, [this one](https://support.microsoft.com/en-us/office/delete-a-blank-page-a5efa26e-6a21-4ac8-81ce-220a46d105a8) taught me Ctrl+Shift+8 would make the paragraph measurements visible, and then I could reduce the offending one, and confidently attach a one-page resume to my application!
+
+Tomorrow, I can probably submit, and apply to a few other positions. As much as I hate to reduce programming time, I hate my current job more-I'm not sure I can wait more than a couple more days to give my notice...

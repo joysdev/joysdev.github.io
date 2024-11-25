@@ -1,0 +1,1 @@
+I still don't know why the tests won't run, but I do know I am missing at least one component, so I am working to complete the project before starting another. And I am having a hard time figuring out how to align multiple checkboxes to each of their labels... I am not going to solve this one tonight. But I did reach my goal of 10+ hours this week!
