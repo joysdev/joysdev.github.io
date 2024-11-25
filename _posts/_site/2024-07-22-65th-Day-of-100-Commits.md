@@ -1,3 +1,0 @@
-My commits on Mon/Tues gamedays might not be very interesting... Today was much busier than last Monday, and although I'm home now, I'm pretty well spent. I earn more bartending than any other job I qualify for, but it's far from easy money. I'm grateful for the opportunity to work where I am, because it is a peach of a position, but again, that doesn't mean 9 hours doesn't wear me out. It does mean it doesn't require much mental energy to maintain a good service attitude!
-
-I did get an hour of study/practice in tonight, including some JavaScript that I will be using in my project. Good Enough. I have another long workday tomorrow, then Wednesday I expect to be have the time to make some progress, or at least learn how some things *don't* work...

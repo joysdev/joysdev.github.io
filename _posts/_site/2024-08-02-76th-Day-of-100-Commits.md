@@ -1,1 +1,0 @@
-I'm getting a little time in at the end of my day, but I'm so tired I wonder if I'm learning anything. Instead of beating myself up, I will remember that I prefer to learn earlier in the day. 

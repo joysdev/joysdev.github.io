@@ -1,3 +1,0 @@
-I just deleted my whole post... so I will recap:
-
-Squeaking by today with a post-commit, but trying to see it as Good Enough. I am still building a daily habit. I don't believe the world doesn't expect me to be superhuman to succeed, but I can at least stop demanding it of myself. Anyway, I'm glad I pushed for a few commits on my app the last couple of days-I really have no reason to feel even a little guilty that I want to just chill after work.

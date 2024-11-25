@@ -1,1 +1,0 @@
-Started my new job today, and still spinning from new of my dad's death, so another day of getting some time in, but only on lessons. Still counts! I'm exhausted.

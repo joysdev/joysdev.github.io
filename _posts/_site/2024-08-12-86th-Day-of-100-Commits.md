@@ -1,4 +1,0 @@
-Does a button operate the same on mobile?
-  My initial search says no-click and touch are different events.
-
-Feeling a bit discouraged that I can work for a long time trying to get things to work the way I want in my app, and my commits don't reflect all the trial and error. I'm trying and erring A LOT. Oh well, I got a commit in on my app, and this post makes two-gonna call that good enough for tonight. I'm looking forward to being Off when I get off of Dayjob, which today was too slow to be profitable, but not slow enough that I had my attention to myself. And I had a strange encounter that left me feeling ashamed that I don't stand up for myself, and resentful that I should have to. Oh well, I know this is not my forever job...
